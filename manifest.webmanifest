@@ -1,0 +1,17 @@
+{
+  "name": "بورس‌بین",
+  "short_name": "بورس‌بین",
+  "description": "تحلیل تکنیکال و بنیادی بورس ایران، فارکس، کریپتو و ارز و طلا",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1230",
+  "theme_color": "#0a1230",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
