@@ -1,0 +1,17 @@
+{
+  "name": "boursebin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BourseBin PWA + Android (Capacitor)",
+  "scripts": {
+    "prepare:www": "node scripts/prepare-www.js",
+    "android:sync": "node scripts/prepare-www.js && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}

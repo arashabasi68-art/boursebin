@@ -1,6 +1,6 @@
 /* بورس‌بین service worker: آفلاین‌کردن فایل‌های خود برنامه.
    برای انتشار نسخهٔ جدید، عدد VERSION را عوض کنید. */
-const VERSION = 'v1';
+const VERSION = 'v3';
 const CACHE = 'boursebin-' + VERSION;
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 

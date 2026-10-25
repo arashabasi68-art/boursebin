@@ -1,0 +1,11 @@
+{
+  "appId": "ir.boursebin.app",
+  "appName": "بورس‌بین",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0a1230"
+  }
+}
